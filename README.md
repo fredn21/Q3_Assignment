@@ -1,4 +1,4 @@
-This repository outlines my answer to 'Homework Question 3', the text below outlines where the data came from.
+This repository outlines my answer to 'Homework Question 3', the text below states where the data came from.
 
 DATA
 ====
