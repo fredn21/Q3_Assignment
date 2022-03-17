@@ -6,4 +6,4 @@ To run this analysis use the following command:
 Rscript src/make-plot.R
 ```
 
-The input data is in 'data' and the results of the analyssis are in 'out'.
+The input data is in 'data' and the results of the analysis are in 'out'.
